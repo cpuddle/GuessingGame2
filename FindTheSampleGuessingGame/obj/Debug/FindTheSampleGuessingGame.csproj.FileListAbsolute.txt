@@ -1,0 +1,21 @@
+C:\Users\collin\source\repos\FindTheSampleGuessingGame\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.csproj.AssemblyReference.cache
+C:\Users\collin\source\repos\FindTheSampleGuessingGame\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.GameGUI.resources
+C:\Users\collin\source\repos\FindTheSampleGuessingGame\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.Properties.Resources.resources
+C:\Users\collin\source\repos\FindTheSampleGuessingGame\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.csproj.GenerateResource.cache
+C:\Users\collin\source\repos\FindTheSampleGuessingGame\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\collin\source\repos\FindTheSampleGuessingGame\FindTheSampleGuessingGame\bin\Debug\FindTheSampleGuessingGame.exe.config
+C:\Users\collin\source\repos\FindTheSampleGuessingGame\FindTheSampleGuessingGame\bin\Debug\FindTheSampleGuessingGame.exe
+C:\Users\collin\source\repos\FindTheSampleGuessingGame\FindTheSampleGuessingGame\bin\Debug\FindTheSampleGuessingGame.pdb
+C:\Users\collin\source\repos\FindTheSampleGuessingGame\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.exe
+C:\Users\collin\source\repos\FindTheSampleGuessingGame\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.pdb
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.csproj.AssemblyReference.cache
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.GameGUI.resources
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.Properties.Resources.resources
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.csproj.GenerateResource.cache
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.exe
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.pdb
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\obj\Debug\FindTheSampleGuessingGame.AnalyzerSelectionGUI.resources
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\bin\Debug\FindTheSampleGuessingGame.exe.config
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\bin\Debug\FindTheSampleGuessingGame.exe
+C:\Users\collin\source\repos\FindTheSampleGuessingGame 2\FindTheSampleGuessingGame\bin\Debug\FindTheSampleGuessingGame.pdb
